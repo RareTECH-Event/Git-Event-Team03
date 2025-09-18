@@ -8,3 +8,4 @@ Python
 ---
 ### コンフリクト演習
 Masa編集
+yamachanが編集
