@@ -8,3 +8,5 @@ Python
 ---
 ### コンフリクト演習
 Harukaが編集しました。
+Masa編集
+yamachanが編集
