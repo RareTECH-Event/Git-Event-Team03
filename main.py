@@ -9,7 +9,7 @@ def main():
         choice = input("> ")
 
         if choice == "1":
-            print("たか@59期が選ばれました！")
+            print("たか@59期が選ばれました！！！")
         elif choice == "2":
             print("選択肢2が選ばれました。")
         elif choice == "3":
