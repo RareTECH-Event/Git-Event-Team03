@@ -9,17 +9,16 @@ def main():
         choice = input("> ")
 
         if choice == "1":
-            print("yamachaが編集しました")
+            print("選択肢1が選ばれました。")
         elif choice == "2":
-            print("Masaが編集しました")
+            print("選択肢2が選ばれました。")
         elif choice == "3":
-            print("Harukaが選ばれました。")
+            print("選択肢3が選ばれました。")
         elif choice == "q":
-            print("タクが編集しました")
+            print("プログラムを終了します。")
             break
         else:
             print("無効な入力です。もう一度選択してください。")
 
 if __name__ == "__main__":
     main()
-
