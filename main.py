@@ -11,7 +11,7 @@ def main():
         if choice == "1":
             print("たか@59期が選ばれました。")
         elif choice == "2":
-            print("選択肢2が選ばれました。")
+            print("テストテスト")
         elif choice == "3":
             print("選択肢3が選ばれました。")
         elif choice == "q":
